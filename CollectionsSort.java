@@ -1,7 +1,7 @@
 package test;
 import java.util.*;
 
-public class Main {
+public class CollectionsSort {
     static Scanner s = new Scanner(System.in);
     static StringBuilder sb = new StringBuilder();
     public static void main(String[] args){
