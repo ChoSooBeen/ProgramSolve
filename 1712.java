@@ -14,3 +14,5 @@ public class math_1712 {
             System.out.println(a/(c-b)+1);
     }
 }
+
+// 오답 노트 https://github.com/ChoSooBeen/ReviewNote/blob/main/1712.md
