@@ -32,3 +32,5 @@ public class math_1193 {
         System.out.println(String.format("%d/%d", child, parent));
     }
 }
+
+//https://github.com/ChoSooBeen/ReviewNote/blob/main/1193.md
