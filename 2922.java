@@ -21,3 +21,5 @@ public class math_2292 {
         }
     }
 }
+
+//https://github.com/ChoSooBeen/ReviewNote/blob/main/2922.md
