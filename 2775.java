@@ -31,3 +31,5 @@ public class math_2775 {
             System.out.println(result[i]);
     }
 }
+
+//https://github.com/ChoSooBeen/ReviewNote/blob/main/2775.md
