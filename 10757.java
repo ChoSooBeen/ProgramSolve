@@ -12,3 +12,5 @@ public class marathon {
         System.out.println(A.add(B));
     }
 }
+
+//https://github.com/ChoSooBeen/ReviewNote/blob/main/10757.md
