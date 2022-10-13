@@ -1,7 +1,3 @@
-# 백준 문제 풀이
+# 백준 코드 저장
 
-1일 1백준
-
-baekjoon
-
-https://www.acmicpc.net
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cba06130)](https://solved.ac/cba06130/)
