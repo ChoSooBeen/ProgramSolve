@@ -20,5 +20,3 @@ public class Main {
         System.out.println(sum.mod(M));
     }
 }
-
-//https://github.com/ChoSooBeen/ReviewNote/tree/main
