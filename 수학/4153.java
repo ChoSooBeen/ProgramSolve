@@ -15,17 +15,17 @@ public class Main {
             if(a == 0 && b == 0 && c == 0)
                 break;
             else {
-                if(a > b && a > c) {
+                if(a > b && a > c) { //a가 가장 큰값일 경우
                     int tmp = a;
                     a = c;
                     c = tmp;
                 }
-                else if(b > a && b > c) {
+                else if(b > a && b > c) { //b가 가장 큰값일 경우
                     int tmp = b;
                     b = c;
                     c = tmp;
                 }
-                if(a * a + b * b == c * c)
+                if(a * a + b * b == c * c) //c가 가장 큰값이어야 한다.
                     sb.append("right");
                 else
                     sb.append("wrong");
