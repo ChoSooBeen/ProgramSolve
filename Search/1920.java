@@ -20,6 +20,7 @@ public class Main {
         for(int i = 0; i < M; i++) {
             int key = Integer.parseInt(st_m.nextToken());
 
+            //이분탐색
             if(Arrays.binarySearch(array_n, key) >= 0) {
                 System.out.println(1);
             }
