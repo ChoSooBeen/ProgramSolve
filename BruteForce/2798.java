@@ -1,4 +1,3 @@
-//블랙잭
 import java.io.*;
 import java.util.StringTokenizer;
 
