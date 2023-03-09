@@ -1,4 +1,3 @@
-//이항계수1
 import java.io.*;
 
 public class Main {
