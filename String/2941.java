@@ -1,4 +1,3 @@
-//크로아티아 알파벳
 import java.util.Scanner;
 
 public class Main
