@@ -1,4 +1,3 @@
-//직각 삼각형 구하기
 import java.io.*;
 
 public class Main {
