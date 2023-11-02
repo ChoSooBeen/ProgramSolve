@@ -11,14 +11,13 @@ public class BOJ1789 {
         int result = 1;
         BigInteger current = new BigInteger("1");
         BigInteger remain = N.subtract(current);
-        BigInteger one = current;
         while (current.compareTo(remain) == -1) {
             result++;
-            current = current.add(one);
+            current = current.add(BigInteger.ONE);
             remain = remain.subtract(current);
         }
         System.out.println(result);
-        
+
 //        Long type 사용
 //        BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 //
