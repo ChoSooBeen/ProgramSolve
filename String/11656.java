@@ -18,5 +18,6 @@ public class BOJ11656 {
             bw.write(suffix[i] + '\n');
         }
         bw.flush();
+        bw.close(); //스트림 닫기!
     }
 }
